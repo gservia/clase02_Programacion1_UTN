@@ -18,6 +18,7 @@ int main(void) {
 
 	printf("Tu numero es: %d",a);
 
+	printf("\nPROGRAMA FINALIZADO");
 
 
 
